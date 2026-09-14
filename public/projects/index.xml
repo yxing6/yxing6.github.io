@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yun Xing | Engineering Physics – Projects</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Yun Xing | Engineering Physics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Sep 2026 20:46:11 -0700</lastBuildDate>
+    
+	  <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+  </channel>
+</rss>
